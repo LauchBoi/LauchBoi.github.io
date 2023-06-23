@@ -24,4 +24,4 @@ function move(element, direction, distance=20, duration=1000) {
     var movingFrames = setInterval(moveAFrame, 10);
  };
 
- this.move(pic,any,20,1000);
+ this.move(pic,right,20,1000);
