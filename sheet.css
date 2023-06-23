@@ -3,7 +3,12 @@ html, body{
   height: 100%;
 }
 h1{
-  font-size: large;
+  font-size: xx-large;
   color: white;
   font-family: monospace;
+}
+h2{
+  font-size: large;
+  color: darkslateblue;
+  font-family: Arial, Helvetica, sans-serif;
 }
