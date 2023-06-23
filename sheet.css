@@ -1,5 +1,6 @@
-body{
+html, body{
   background: url("./bg.jpg") black;
+  height: 100%;
 }
 img{
   align-items: center;
